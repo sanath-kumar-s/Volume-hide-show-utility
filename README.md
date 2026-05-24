@@ -1,4 +1,4 @@
-# 🔒 USB Volume Hide/Show Utility
+# 🔒 Volume Hide/Show Utility
 
 > Hide and reveal drive partitions on Windows using built-in `diskpart` — no third-party software needed.
 
